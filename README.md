@@ -14,18 +14,18 @@ The APIs are how your application informs your database of what functions to per
 There are four basic CRUD functions; create, read, update and delete. These four operations map to functions/statements, as seen in the following table:
 
 OPERATIONS FUNCTIONS are
-Create	Insert
-Read	Select
-Update	Update
-Delete	Delete.
+Create	(Insert),
+Read	(Select),
+Update	(Update),
+Delete	(Delete).
 
 Each letter in CRUD can also be mapped to an HTTP protocol method:
 
 OPERATIONS	HTTP PROTOCOL are
-Create	Post
-Read	Get
-Update	Put
-Delete	Delete.
+Create	(Post),
+Read	(Get),
+Update	(Put),
+Delete	(Delete).
 
 # Requirements
 
